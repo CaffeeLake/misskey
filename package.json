@@ -46,7 +46,7 @@
 		"execa": "8.0.1",
 		"cssnano": "6.0.1",
 		"js-yaml": "4.1.0",
-		"postcss": "8.4.30",
+		"postcss": "8.4.31",
 		"terser": "5.20.0",
 		"typescript": "5.2.2"
 	},
